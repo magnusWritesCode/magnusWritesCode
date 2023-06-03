@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @magnusWritesCode/Jamal/Mr Magnus
-- 👀 I’m interested in Systems Administration and Support as well as NEtworking 
+- 👀 I’m interested in Systems Administration and Support as well as Networking 
+- 👀 I don't like programming or coding much
 - 🌱 I’m currently learning Linux Essentials on Cisco NetAcad
 - 📫 How to reach me (https://linktr.ee/harunajamalamidu)
 
