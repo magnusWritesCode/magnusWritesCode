@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @magnusWritesCode/Jamal/Mr Magnus
-- 👀 I’m interested in Systems Administration and Support as well as Networking 
+- 👀 I’m interested in Systems Administration and IT Support as well as Networking 
 - 👀 I don't like programming or coding much
-- 🌱 I’m currently learning Linux Essentials on Cisco NetAcad
+- 🌱 I’m currently Google IT Support and Google Cybersecurity certified and on course to get ISC2 CC certified.
 - 📫 How to reach me (https://linktr.ee/harunajamalamidu)
 
 <!---
