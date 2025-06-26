@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @magnusWritesCode/Jamal/Mr Magnus
-- 👀 I’m interested in Systems Administration and IT Support as well as Networking 
-- 👀 I don't like programming or coding much
-- 🌱 I’m currently Google IT Support and Google Cybersecurity certified and on course to get ISC2 CC certified.
+- 👀 I’m interested in Systems Administration and IT Support.
+- 👀 I am currently a project supervisor managing consumer engagement projects at an Advertising and Marketing firm. 
+- 👀 I don't like programming or coding much but I occasionally write code.
+- 🌱 I’m currently Google IT Support and Google Cybersecurity certified and on course to become ISC2 CC certified.
 - 📫 How to reach me (https://linktr.ee/harunajamalamidu)
 
 <!---
